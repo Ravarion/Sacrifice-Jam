@@ -9,7 +9,7 @@ public class TheEndController : MonoBehaviour {
     {
         if (Input.anyKeyDown)
         {
-            Application.Quit();
+            SceneManager.LoadScene(0);
         }
     }
 }
