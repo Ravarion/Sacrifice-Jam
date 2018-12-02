@@ -1,10 +1,8 @@
 fileFormatVersion: 2
-guid: ab4faa8fb2588ba4bbd49f82b2fca0c5
+guid: 93125243b97d7e34e9fca43775954ac1
 TextureImporter:
   fileIDToRecycleName:
-    21300000: EatRight 0
-    21300002: EatRight 1
-    21300004: EatRight 2
+    21300000: Hand 0
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -63,7 +61,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 2
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 64
+    maxTextureSize: 4
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -76,13 +74,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: EatRight 0
+      name: Hand 0
       rect:
         serializedVersion: 2
         x: 0
-        y: 46
-        width: 32
-        height: 18
+        y: 0
+        width: 3
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -90,47 +88,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 05b155e1cb0de5944b69cebb1eb8937d
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: EatRight 1
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 46
-        width: 32
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b907172f45bad4c4a83daa7859cb765d
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: EatRight 2
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 28
-        width: 32
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f5db4f9ea7647b644b1186b23a8c2ff8
+      spriteID: 30e67b0ff0223f74d80f841ed0d9187e
       vertices: []
       indices: 
       edges: []
@@ -138,7 +96,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: b6e3cfe2e01e0314c8d568e07c4bf950
+    spriteID: e4599ebeef9a8924f864c61f50f59174
     vertices: []
     indices: 
     edges: []

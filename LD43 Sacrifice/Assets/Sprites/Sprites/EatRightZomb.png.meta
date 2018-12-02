@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: ab4faa8fb2588ba4bbd49f82b2fca0c5
+guid: 70132c3a46d73614db33eb34961e8482
 TextureImporter:
   fileIDToRecycleName:
-    21300000: EatRight 0
-    21300002: EatRight 1
-    21300004: EatRight 2
+    21300000: EatRightZomb 0
+    21300002: EatRightZomb 1
+    21300004: EatRightZomb 2
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -76,7 +76,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: EatRight 0
+      name: EatRightZomb 0
       rect:
         serializedVersion: 2
         x: 0
@@ -90,13 +90,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 05b155e1cb0de5944b69cebb1eb8937d
+      spriteID: d104aa437cb837a4d84103b30835af20
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: EatRight 1
+      name: EatRightZomb 1
       rect:
         serializedVersion: 2
         x: 32
@@ -110,13 +110,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b907172f45bad4c4a83daa7859cb765d
+      spriteID: 7a9ff84cfba688e408cf61ee13f32c88
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: EatRight 2
+      name: EatRightZomb 2
       rect:
         serializedVersion: 2
         x: 0
@@ -130,7 +130,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f5db4f9ea7647b644b1186b23a8c2ff8
+      spriteID: b7029f3ab80187242b20a1c5d6ec4461
       vertices: []
       indices: 
       edges: []
@@ -138,7 +138,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: b6e3cfe2e01e0314c8d568e07c4bf950
+    spriteID: 272f47e63d900dd49814abbd517c6c12
     vertices: []
     indices: 
     edges: []

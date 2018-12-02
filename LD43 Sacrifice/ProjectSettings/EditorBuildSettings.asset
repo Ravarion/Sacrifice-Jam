@@ -17,4 +17,22 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/EatRight.unity
     guid: 23aff305ebc40b64db70b1701cdabc26
+  - enabled: 1
+    path: Assets/Scenes/ChooseCoffin.unity
+    guid: fd5a3d3b92451bc49bf068221b32d592
+  - enabled: 1
+    path: Assets/Scenes/RestInPeace.unity
+    guid: d059d3a55ed433b47a32b0f9a53c1140
+  - enabled: 1
+    path: Assets/Scenes/WorkoutZomb.unity
+    guid: 5ba7c8520845df04a9b6a7172cd22b31
+  - enabled: 1
+    path: Assets/Scenes/StudyZomb.unity
+    guid: b769bc5ef89d5934196c4293b2aa1fb6
+  - enabled: 1
+    path: Assets/Scenes/EatRightZomb.unity
+    guid: 6c41a9e697f1a7a43b3f579b5af3660b
+  - enabled: 1
+    path: Assets/Scenes/TheEnd.unity
+    guid: bcb8a9993be051b44a5f7723a6965bd3
   m_configObjects: {}

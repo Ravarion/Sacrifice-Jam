@@ -14,7 +14,7 @@ public class TypingController : MonoBehaviour {
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
         }
-        if (Input.GetKeyDown(inputs[index]))
+        else if (Input.GetKeyDown(inputs[index]))
         {
             FindObjectOfType<Animator>().SetTrigger("Continue");
             index++;

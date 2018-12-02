@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: ab4faa8fb2588ba4bbd49f82b2fca0c5
+guid: f8553eb370316a747bae6f50dbb19bd5
 TextureImporter:
   fileIDToRecycleName:
-    21300000: EatRight 0
-    21300002: EatRight 1
-    21300004: EatRight 2
+    21300000: StudyZomb 0
+    21300002: StudyZomb 1
+    21300004: StudyZomb 2
+    21300006: StudyZomb 3
+    21300008: StudyZomb 4
+    21300010: StudyZomb 5
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -76,7 +79,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: EatRight 0
+      name: StudyZomb 0
       rect:
         serializedVersion: 2
         x: 0
@@ -90,13 +93,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 05b155e1cb0de5944b69cebb1eb8937d
+      spriteID: 3db5518f475d9284e9806d18678ca526
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: EatRight 1
+      name: StudyZomb 1
       rect:
         serializedVersion: 2
         x: 32
@@ -110,13 +113,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b907172f45bad4c4a83daa7859cb765d
+      spriteID: 33843c0d98a977f4288128d95cc18283
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: EatRight 2
+      name: StudyZomb 2
       rect:
         serializedVersion: 2
         x: 0
@@ -130,7 +133,67 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f5db4f9ea7647b644b1186b23a8c2ff8
+      spriteID: a4b896ae935db7943bdea5664c19e5f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StudyZomb 3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 28
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5f0fc9d142a0e4cb9fc388186d9afb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StudyZomb 4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88d7edc53de1b849b4dea6c9e510314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StudyZomb 5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 10
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd74496e0458674cb441dc72d1aaca7
       vertices: []
       indices: 
       edges: []
@@ -138,7 +201,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: b6e3cfe2e01e0314c8d568e07c4bf950
+    spriteID: 572561d8578af9c4486b50e8d27318ff
     vertices: []
     indices: 
     edges: []
