@@ -6,6 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scenes/Title.unity
+    guid: cc55af802fada3b4fb369746b3997070
+  - enabled: 1
+    path: Assets/Scenes/WorkOut.unity
+    guid: 006d118e0c8edff4bb9b3da4b442ff0c
+  - enabled: 1
+    path: Assets/Scenes/Study.unity
+    guid: 05cf8af93b742744da13530c87be968c
+  - enabled: 1
+    path: Assets/Scenes/EatRight.unity
+    guid: 23aff305ebc40b64db70b1701cdabc26
   m_configObjects: {}
